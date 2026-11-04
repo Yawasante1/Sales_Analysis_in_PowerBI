@@ -73,7 +73,7 @@ To rebuild it from the source, restore `AdventureWorksDW2022.bak` in SQL Server,
 
 ## Author
 
-**Opoku Asante Emmanuel**, Data Scientist and Financial Economist
+**Yaw Asante** - Data Scientist, Statistician and Financial Economist
 
 Email: vkpoasante@gmail.com
 
