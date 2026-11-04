@@ -1,4 +1,4 @@
-[README_SalesTrend.md](https://github.com/user-attachments/files/34274507/README_SalesTrend.md)
+
 # Sales Trend Dashboard: Time Intelligence in Power BI
 
 ### Tracking Year-to-Date, Month-over-Month and Quarter-over-Quarter performance with DAX
